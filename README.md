@@ -5,7 +5,10 @@
 
 
 
+
 Arduino-based automated irrigation system using soil-moisture sensing, LCD monitoring, and pump control.
+
+
 
 
 

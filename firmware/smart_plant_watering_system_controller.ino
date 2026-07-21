@@ -1,3 +1,18 @@
+/**
+ * Smart Plant Watering System
+ *
+ * Monitors soil moisture and automatically activates
+ * a water pump when the soil becomes dry.
+ *
+ * Hardware:
+ * - Arduino UNO
+ * - Soil moisture sensor
+ * - LCD display
+ * - Water pump and relay module
+ *
+ * Author: Emeka Chijioke
+ */
+
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 

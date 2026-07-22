@@ -6,6 +6,6 @@ Project Demo.:
 
 Note:
 
-01 - Introduction and presentation of the used materials.
+01 - Introduction and presentation of the materials used.
 
 02 - Demonstration of the working system.

@@ -124,6 +124,6 @@ The prototype was tested under different soil moisture conditions to verify:
 Aerospace Engineering PhD Researcher
 Interested in aerospace systems, automation, simulation, embedded systems, and engineering prototyping.
 
-[LinkedIn](https://www.linkedin.com/in/emeka-chijioke) | [GitHub](YOUR-GITHUB-PROFILE)
+[LinkedIn](https://www.linkedin.com/in/emeka-chijioke) | [GitHub](https://github.com/NextGen-Engineers)
 
     

@@ -121,6 +121,7 @@ The prototype was tested under different soil moisture conditions to verify:
 ## Author
 
 **Emeka Chijioke**
+
 Aerospace Engineering PhD Researcher
 Interested in aerospace systems, automation, simulation, embedded systems, and engineering prototyping.
 

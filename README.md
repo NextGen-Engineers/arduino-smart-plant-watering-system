@@ -12,7 +12,18 @@ images/
 
 media/
     Demonstration videos
+    
+Project Demo:
 
+01- https://www.youtube.com/watch?v=7V_f8IIMPcI
+
+02- https://youtu.be/hlxEzXLN6nc
+
+Note:
+
+01 - Introduction and presentation of the materials used.
+
+02 - Demonstration of the working system.
 
 
 # Smart Plant Watering System
